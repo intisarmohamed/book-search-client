@@ -13,6 +13,7 @@ This is a full-stack application using Google Books API search engine and a Grap
 - Apollo client
 - Apollo server
 
+![Alt text](src/book-search.png)
 ### User Story
 
 ```
